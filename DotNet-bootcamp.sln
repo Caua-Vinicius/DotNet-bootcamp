@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet_bootcamp.common", "d
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_2_Arrays", "AulasPraticas\Aula_2_Arrays\Aula_2_Arrays.csproj", "{FE1E5661-7F93-497D-AFD4-2F02CBB76CEB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Desafios", "Desafios", "{254E5779-459F-4D12-9E9A-85166B59926F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioEstacionamento", "Desafios\DesafioEstacionamento\DesafioEstacionamento.csproj", "{1358CD5F-768E-4DB5-9809-11D6AC542127}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +33,10 @@ Global
 		{FE1E5661-7F93-497D-AFD4-2F02CBB76CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE1E5661-7F93-497D-AFD4-2F02CBB76CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE1E5661-7F93-497D-AFD4-2F02CBB76CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1358CD5F-768E-4DB5-9809-11D6AC542127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1358CD5F-768E-4DB5-9809-11D6AC542127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1358CD5F-768E-4DB5-9809-11D6AC542127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1358CD5F-768E-4DB5-9809-11D6AC542127}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -36,6 +44,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{CD78FB6E-1740-4920-B32C-80B95581C608} = {5C333143-5A69-4053-A266-322D27A5A224}
 		{FE1E5661-7F93-497D-AFD4-2F02CBB76CEB} = {5C333143-5A69-4053-A266-322D27A5A224}
+		{1358CD5F-768E-4DB5-9809-11D6AC542127} = {254E5779-459F-4D12-9E9A-85166B59926F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1129F920-97A4-48C1-8F7C-203848ED7876}

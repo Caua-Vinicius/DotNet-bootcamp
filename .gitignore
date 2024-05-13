@@ -1,0 +1,18 @@
+# Arquivos e pastas gerados automaticamente
+bin/
+obj/
+
+# Outros arquivos gerados automaticamente
+*.exe
+*.dll
+*.pdb
+
+# Arquivos de configuração específicos do usuário
+*.user
+*.suo
+
+# Pacotes NuGet
+packages/
+
+# Cache de análise do Visual Studio
+.vs/
