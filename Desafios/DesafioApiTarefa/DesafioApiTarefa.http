@@ -1,0 +1,6 @@
+@DesafioApiTarefa_HostAddress = http://localhost:5270
+
+GET {{DesafioApiTarefa_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
